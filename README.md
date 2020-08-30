@@ -1,27 +1,27 @@
 ## Hyun Lee
-🎓 Education
+🎓 Education  
 Undergraduate Student in School of Statistics and Computer Engineering, Konkuk University 2015.03 ~
 
-⚡ Internship
+⚡ Internship  
 Deep Vision Lab, Konkuk Univ. 2020.05 ~
 
 
-⚡ Interests
+⚡ Interests  
 ML/DL in audio domain
 Statistical Machine Learning
 
 
-⚡ Projects
+⚡ Projects  
 Music Style Transfer
 Dental images generation for prosthesis
 Music Playlist Recommendation
 
 
-🌱 Tech Blog
+🌱 Tech Blog  
 https://hyunlee103.tistory.com/
 
 
-📫 Contact
+📫 Contact  
 chdnjf103@gmail.com
 
 <!--
