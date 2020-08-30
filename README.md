@@ -7,22 +7,22 @@ Deep Vision Lab, Konkuk Univ. 2020.05 ~
 
 
 ⚡ Interests  
-ML/DL in audio domain
-Statistical Machine Learning
+ML/DL in audio domain  
+Statistical Machine Learning  
 
 
 ⚡ Projects  
-Music Style Transfer
-Dental images generation for prosthesis
-Music Playlist Recommendation
+Music Style Transfer  
+Dental images generation for prosthesis  
+Music Playlist Recommendation  
 
 
 🌱 Tech Blog  
-https://hyunlee103.tistory.com/
+https://hyunlee103.tistory.com/  
 
 
 📫 Contact  
-chdnjf103@gmail.com
+chdnjf103@gmail.com  
 
 <!--
 **HyunLee103/HyunLee103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
