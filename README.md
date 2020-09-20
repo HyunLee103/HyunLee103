@@ -12,7 +12,7 @@ Statistical Machine Learning
 
 
 ⚡ Projects  
-Music Style Transfer  
+Music Style Transfer using auto-encoder
 Dental images generation for prosthesis  
 Music Playlist Recommendation  
 
