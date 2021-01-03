@@ -3,13 +3,13 @@
 Undergraduate Student in School of Statistics and Computer Engineering, Konkuk University 2015.03 ~
 
 ⚡ Internship  
-Deep Vision Lab, Konkuk Univ. 2020.05 ~
+Deep Vision Lab, Konkuk Univ. 2020.05 ~ 2020.12
 
 
 ⚡ Interests  
 ML/DL in audio domain  
-Statistical Machine Learning  
-
+Statistical Machine Learning 
+Recommender system
 
 ⚡ Projects  
 Music Style Transfer using auto-encoder
