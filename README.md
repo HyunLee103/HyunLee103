@@ -8,7 +8,7 @@ Deep Vision Lab, Konkuk Univ. 2020.05 ~ 2020.12
 
 ⚡ Interests  
 ML/DL in audio domain  
-Statistical Machine Learning 
+Statistical Machine Learning  
 Recommender system
 
 ⚡ Projects  
