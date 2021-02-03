@@ -12,7 +12,7 @@ Statistical Machine Learning
 Recommender system
 
 ⚡ Projects  
-Music Style Transfer using auto-encoder
+Music Style Transfer using auto-encoder  
 Dental images generation for prosthesis  
 Music Playlist Recommendation  
 
