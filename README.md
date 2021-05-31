@@ -2,8 +2,7 @@
 [![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=HyunLee103)](https://github.com/HyunLee103/github-readme-stats)
 
 
-🌱 Tech Blog  
-https://hyunlee103.tistory.com/  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hyunlee103.tistory.com/)
 
 
 📫 Contact  
