@@ -1,4 +1,6 @@
-## Hyun Lee
+⚡ Portfolio
+[Link](https://www.notion.so/bc43b18d250e4dedb67e5da8f25308b9) 
+
 [![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=HyunLee103)](https://github.com/HyunLee103/github-readme-stats)
 
 
@@ -8,7 +10,7 @@
   
 
 
-⚡ # Portfolio
+⚡ Portfolio
 [Link](https://www.notion.so/bc43b18d250e4dedb67e5da8f25308b9) 
 
 <!--
