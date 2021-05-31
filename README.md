@@ -1,5 +1,5 @@
 ## Hyun Lee
-[![Hyun's github stats](https://github-readme-stats.vercel.app/api?HyunLee103=HyunLee103)](https://github.com/HyunLee103/github-readme-stats)
+[![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=HyunLee103)](https://github.com/HyunLee103/github-readme-stats)
 
 
 🌱 Tech Blog  
