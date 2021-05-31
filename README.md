@@ -3,9 +3,8 @@
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hyunlee103.tistory.com/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:chdnjf103@gmail.com) 
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)]([CV_이현.pdf](https://github.com/HyunLee103/HyunLee103/files/6571390/CV_.pdf)
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://github.com/HyunLee103/HyunLee103/files/6571390/CV_.pdf)
   
 
 
