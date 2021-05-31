@@ -8,8 +8,8 @@
   
 
 
-📫 Contact  
-chdnjf103@gmail.com  
+⚡ Portfolio
+[Link](https://www.notion.so/bc43b18d250e4dedb67e5da8f25308b9) 
 
 <!--
 **HyunLee103/HyunLee103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
