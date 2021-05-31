@@ -1,20 +1,5 @@
 ## Hyun Lee
-🎓 Education  
-Undergraduate Student in School of Statistics and Computer Engineering, Konkuk University 2015.03 ~
-
-⚡ Internship  
-Deep Vision Lab, Konkuk Univ. 2020.05 ~ 2020.12
-
-
-⚡ Interests  
-ML/DL in audio domain  
-Statistical Machine Learning  
-Recommender system
-
-⚡ Projects  
-Music Style Transfer using auto-encoder  
-Dental images generation for prosthesis  
-Music Playlist Recommendation  
+[![Hyun's github stats](https://github-readme-stats.vercel.app/api?HyunLee103=HyunLee103)](https://github.com/HyunLee103/github-readme-stats)
 
 
 🌱 Tech Blog  
